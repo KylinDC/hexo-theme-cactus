@@ -28,7 +28,10 @@ nav:
 # You can optionally add a 'label' key to set the title attribute on the link.
 # 'icon' value will be used as title when 'label' is missing.
 social_links:
-  github: https://github.com/KylinDC
+  - icon: github
+    link: https://github.com/KylinDC
+  - icon: at
+    link: mailto:din-04.ragtime@icloud.com
   # :twitter: https://twitter.com/The___Trick
   # facebook: /
   # linkedin: /
@@ -37,9 +40,8 @@ social_links:
   # imdb: https://www.douban.com/people/49074527/
   # telegram: https://t.me/GideonZ
   # envelope-o: mailto:inlovingdays@gmail.com
-  mail: mailto:inlovingdays@gmail.com
   # rss: https://kylindc.github.io/atom.xml
-  sellsy: https://kylindc.github.io/atom.xml
+  # sellsy: https://kylindc.github.io/atom.xml
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
